@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.57)
-AC_INIT(ample, 0.3, clb@kth.se)
+AC_INIT(ample, 0.3, elmindreda@elmindreda.org)
 AC_CONFIG_SRCDIR([src/AmpleNode.cpp])
 AM_INIT_AUTOMAKE
 AM_CONFIG_HEADER([include/config.h])
